@@ -1,0 +1,199 @@
+{
+  "Header": {
+    "paragraph": "Your Trusted Partner in International Markets",
+    "paragraph2": "Unlock the full potential of your business with us."
+  },
+  "About": {
+    "paragraph": "Gita Group is a recognized Canadian based international trade business providing import and export services to clients worldwide. Our extensive global network of trusted suppliers, distributors, and partners helps our clients reach new markets. We strive to provide our clients with the best quality products with competitive pricing and flexible payment terms.",
+    "Why": [
+      " We have an extensive global network of reliable and high-quality suppliers and distributors",
+      " We provide financing solutions to our qualified buyers",
+      " We provide flexible payment terms and competitive pricing"
+    ],
+    "Why2": [
+      " We strive to build long lasting trusted relationships with our suppliers, clients and partners",
+      " We ensure client satisfaction, and an exceptional experience",
+      " We are honest, transparent, and pleasant to work with"
+    ]
+  },
+  "OurPurpose": {
+    "paragraph": "At Gita Group, our purpose is Expanding Horizons for our partners and businesses we work with. Our customized and quality services as a trusted partner provides our suppliers the opportunity to enter new markets more confidently and enables buyers of our products access to more competitive options. We provide a range of solutions including global financing and flexible payment terms to facilitate international trade and enable access to more markets.",
+    "Why": [
+      " We have an extensive global network of reliable and high-quality suppliers and distributors",
+      " We provide financing solutions to our qualified buyers",
+      " We provide flexible payment terms and competitive pricing"
+    ],
+    "Why2": [
+      " We strive to build long lasting trusted relationships with our suppliers, clients and partners",
+      " We ensure client satisfaction, and an exceptional experience",
+      " We are honest, transparent, and pleasant to work with"
+    ]
+  },
+  "OurServices": {
+    "paragraph1": "We specialize in sourcing and delivering a broad catalogue of Industrial, Agricultural, Raw Material, and Consumer products from reliable suppliers and manufacturers in Canada and worldwide.",
+    "paragraph2": "Our team can help you obtain your products from the start of the process until you receive the order in the destination country of your choice. We highly value our extensive trusted network of suppliers, distributors and clients who work with us closely.",
+    "paragraph3": "Contact us with your specific needs if you are looking for a reliable and responsible supplier of quality products for your market or government project.",
+    "WeOffer": [
+      " Agricultural Products",
+      " Raw Material, Metals, Minerals and Ores",
+      " Timber and Wood Products",
+      " Construction and Building Material",
+      " Textile, leather and related products",
+      " Consumer Products",
+      " Heavy machinery and equipment",      
+      " Medical Equipment"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "We specialize in sourcing and delivering a broad catalogue of Industrial, Agricultural, Raw Material, and Consumer products from reliable suppliers and manufacturers in Canada and worldwide."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Our team can help you obtain your products from the start of the process until you receive the order in the destination country of your choice. We highly value our extensive trusted network of suppliers, distributors and clients who work with us closely."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Contact us with your specific needs if you are looking for a reliable and responsible supplier of quality products for your market or government project."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Contact us with your specific needs if you are looking for a reliable and responsible supplier of quality products for your market or government project.",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "email": "info@gitagroup.ca",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "tel": "+14168590746"
+  },
+
+  "Legal": {
+    "TermsOfUse": "<br><b>1. Acceptance of Terms</b><br>By accessing and using Gita Group Ltd. website, you agree to comply with and be bound by these Terms of Use.<br><br><b>2. Intellectual Property</b><br>All content on this website, including text, graphics, logos, and images, is the property of Gita<br>Group Ltd. and is protected by intellectual property laws.<br><br><b>3. User Conduct</b><br>You agree not to engage in any conduct that could harm Gita Group Ltd., its users, or third<br>parties. This includes but is not limited to unlawful activities, unauthorized access, and disruptive<br>behavior.<br><br><b>4. Disclaimer of Warranties</b><br>Gita Group provides the website 'as is' without any warranties. We do not guarantee the accuracy, completeness, or reliability of the content.<br><br><b>5. Limitation of Liability</b><br>Gita Group Ltd. is not liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your access to or use of the website.<br><br><b>6. Third-Party Links</b><br>This website may contain links to third-party websites. Gita Group Ltd. is not responsible for the content or practices of these websites.<br><br><b>7. Privacy Policy</b><br>Your use of the website is also governed by our Privacy Policy, which outlines how we collect, use, and protect your personal information.<br><br><b>8. Changes to Terms</b><br>Gita Group Ltd. reserves the right to modify or update these Terms of Use at any time. It is your responsibility to review them periodically.<br><br><b>9. Governing Law</b><br>These Terms of Use are governed by the laws of Ontario.<br><br><b>10. Contact Information</b><br>If you have any questions or concerns about these Terms of Use, please contact us at info@gitagroup.ca.",
+    "PrivacyPolicy": "<br>Effective Date: Jan 1, 2024<br><br><b>1. Information We Collect</b><br>We collect personal information that you voluntarily provide to us, including but not limited to your name, email address, and any other information you provide when contacting us or using our services.<br><br><b>2. How We Use Your Information</b><br>We use the collected information for purposes such as:<br>- Providing, maintaining, and improving our services.<br>- Notifying you about changes to our services.<br>- Responding to your inquiries and providing customer support.<br>- Complying with legal obligations.<br><br><b>3. Sharing Your Information</b><br>We do not sell, trade, or otherwise transfer your personal information to outside parties.<br>This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, as long as those parties agree to keep this information confidential.<br><br><b>4. Cookies</b><br>We may use cookies to enhance your experience on our website. You can choose to have your computer warn you each time a cookie is being sent or disable cookies through your browser settings.<br><br><b>5. Third-Party Links</b><br>Our website may contain links to third-party websites. We have no control over the content and privacy practices of these sites and encourage you to review their privacy<br>policies.<br><br><b>6. Security</b><br>We implement a variety of security measures to protect the safety of your personal information.<br><br><b>7. Your Choices</b><br>You can opt-out of receiving communications from us and update your personal<br>information by contacting us at info@gitagroup.ca.<br><br><b>8. Changes to This Privacy Policy</b><br>We may update our Privacy Policy from time to time. The most recent version will be<br>posted on this page with the effective date.<br><br><b>9. Contact Information</b><br>If you have any questions regarding this Privacy Policy, you can contact us at info@gitagroup.ca."
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
